@@ -1,0 +1,386 @@
+2026-01-19 15:13:22 - Inicia proceso de creación
+2026-01-19 15:13:22 - JSON: null
+2026-01-19 15:13:22 - Error: Invalid argument supplied for foreach()
+2026-01-19 15:20:02 - Inicia proceso de creación
+2026-01-19 15:20:02 - JSON: [{"employee_number":"610168127","employee_lastname":"Rodriguez","employee_mother_lastname":"Mu\u00f1oz","employee_firstname":"Daniel Alejandro","hire_date":"11\/09\/2025","rfc_number":"ROMD051222RV4","curp_number":"ROMD051222HNLDXNA4","department_code":"259117","position_code":"20222","branch_code":"01","area_code":null,"linea_code":null,"age_date_foi":"11\/09\/2025","calendar_code":"01","employee_type":"P","benefits_code":"7","daily_salary":"9572.35","social_security_salary":null,"pay_rate":"SEM","pay_form":"TAR","pay_regime":"02","bank_code":"021","bank_account":"0","ptu":"1","union_worker":"1","shift_code":"01","social_security_number":"18240506271","marital_status":null,"gender":null,"address_street":"Oton","address_exterior_number":"749 B","address_interior_number":null,"address_colony":"Real de Lincoln","address_town":"Garcia","address_state":"Nuevo Le\u00f3n","address_postal_code":"66013","phone_number":null,"cellular_number":"2812590268","email":null,"nationality":"MEXICANA","birth_place_city":null,"birth_date":null,"birth_place_state":null,"contract_type":"01","fiscal_name":"Daniel Alejandro Rodriguez Mu\u00f1oz","fiscal_postal_code":"66013","ssosupervisor":"610115777","classification":"G08","job_category":"DL"}]
+2026-01-19 15:20:02 - Warning: Employee 610168127 department 259117 does not exist.
+2026-01-19 15:29:19 - Inicia proceso de creación
+2026-01-19 15:29:19 - JSON: [{"employee_number":"610168127","employee_lastname":"Rodriguez","employee_mother_lastname":"Mu\u00f1oz","employee_firstname":"Daniel Alejandro","hire_date":"11\/09\/2025","rfc_number":"ROMD051222RV4","curp_number":"ROMD051222HNLDXNA4","department_code":"259117","position_code":"20222","branch_code":"01","area_code":null,"linea_code":null,"age_date_foi":"11\/09\/2025","calendar_code":"01","employee_type":"P","benefits_code":"7","daily_salary":"9572.35","social_security_salary":null,"pay_rate":"SEM","pay_form":"TAR","pay_regime":"02","bank_code":"021","bank_account":"0","ptu":"1","union_worker":"1","shift_code":"01","social_security_number":"18240506271","marital_status":null,"gender":null,"address_street":"Oton","address_exterior_number":"749 B","address_interior_number":null,"address_colony":"Real de Lincoln","address_town":"Garcia","address_state":"Nuevo Le\u00f3n","address_postal_code":"66013","phone_number":null,"cellular_number":"2812590268","email":null,"nationality":"MEXICANA","birth_place_city":null,"birth_date":null,"birth_place_state":null,"contract_type":"01","fiscal_name":"Daniel Alejandro Rodriguez Mu\u00f1oz","fiscal_postal_code":"66013","ssosupervisor":"610115777","classification":"G08","job_category":"DL"}]
+2026-01-19 15:29:21 - El proceso se ejecutó con éxito
+2026-01-30 00:01:36 - Inicia proceso de creación
+2026-01-30 00:01:36 - El proceso se ejecutó con éxito
+2026-01-30 00:02:36 - Inicia proceso de creación
+2026-01-30 00:02:36 - El proceso se ejecutó con éxito
+2026-01-30 00:03:17 - Inicia proceso de creación
+2026-01-30 00:03:17 - El proceso se ejecutó con éxito
+2026-01-30 00:03:17 - Error: Trying to get property 'clave' of non-object
+2026-01-30 00:03:37 - Inicia proceso de creación
+2026-01-30 00:03:37 - El proceso se ejecutó con éxito
+2026-02-11 12:52:33 - Inicia proceso de creación
+2026-02-11 12:52:33 - Error: Trying to get property 'clave' of non-object
+2026-02-11 12:53:35 - Inicia proceso de creación
+2026-02-11 12:53:51 - Inicia proceso de creación
+2026-02-11 12:54:07 - Inicia proceso de creación
+2026-02-11 12:54:52 - Inicia proceso de creación
+2026-02-11 12:58:20 - Inicia proceso de creación
+2026-02-11 12:59:01 - Inicia proceso de creación
+2026-02-11 12:59:24 - Inicia proceso de creación
+2026-02-11 12:59:24 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"01","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"0001","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"0001","puesto":"00001","sucursal":"001","turno":"01","tipoNomina":"QUIM","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878"}
+2026-02-11 12:59:24 - Error: Undefined variable: salarioDiario
+2026-02-11 13:00:03 - Inicia proceso de creación
+2026-02-11 13:00:03 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"01","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"0001","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"0001","puesto":"00001","sucursal":"001","turno":"01","tipoNomina":"QUIM","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878"}
+2026-02-11 13:00:29 - Inicia proceso de creación
+2026-02-11 13:00:29 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"01","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"0001","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"0001","puesto":"00001","sucursal":"001","turno":"01","tipoNomina":"QUIM","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878"}
+2026-02-11 13:00:29 - Warning: El departamento 0001 no existe.
+2026-02-11 13:01:56 - Inicia proceso de creación
+2026-02-11 13:01:56 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"01","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"0001","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"00001","sucursal":"001","turno":"01","tipoNomina":"QUIM","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878"}
+2026-02-11 13:01:56 - Warning: El puesto 00001 no existe.
+2026-02-11 13:03:43 - Inicia proceso de creación
+2026-02-11 13:03:43 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"01","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"0001","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"100002","sucursal":"160001","turno":"001","tipoNomina":"QUI","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878"}
+2026-02-11 13:03:43 - Error: Undefined property: stdClass::$calendario
+2026-02-11 13:04:39 - Inicia proceso de creación
+2026-02-11 13:04:39 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"2","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"0001","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"100002","sucursal":"160001","turno":"001","tipoNomina":"QUI","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878"}
+2026-02-11 13:04:39 - Error: Undefined property: stdClass::$codigoPostalFiscal
+2026-02-11 13:09:06 - Inicia proceso de creación
+2026-02-11 13:09:06 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"2","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"0001","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"100002","sucursal":"160001","turno":"001","tipoNomina":"QUI","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878","codigoPostalFiscal":"63173","regimenFiscal":null}
+2026-02-11 13:09:07 - Error: Undefined property: stdClass::$prestacion
+2026-02-11 13:20:00 - Inicia proceso de creación
+2026-02-11 13:20:00 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"2","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"0001","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"100002","sucursal":"160001","turno":"001","tipoNomina":"QUI","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878","codigoPostalFiscal":"63173","regimenFiscal":null}
+2026-02-11 13:20:00 - Error: SQLSTATE[42S02]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'giro.Supervisor_giro.RFCEMP'. (SQL: insert into [Supervisor_giro].[EMP_JEFE] ([CLAVE], [FECHA_INICIO], [FECHA_FIN], [ID_JEFE], [FECHA_CAPTURA]) values (P1000, 2020-01-01, 2099-12-31, 0001-001       , 2026-02-11 13:20:00.323))
+2026-02-11 13:22:00 - Inicia proceso de creación
+2026-02-11 13:22:00 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"2","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"01465","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"100002","sucursal":"160001","turno":"001","tipoNomina":"QUI","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878","codigoPostalFiscal":"63173","regimenFiscal":null}
+2026-02-11 13:22:00 - Error: SQLSTATE[42S02]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'giro.Supervisor_giro.RFCEMP'. (SQL: insert into [Supervisor_giro].[EMP_JEFE] ([CLAVE], [FECHA_INICIO], [FECHA_FIN], [ID_JEFE], [FECHA_CAPTURA]) values (P1000, 2020-01-01, 2099-12-31, 01465-001       , 2026-02-11 13:22:00.301))
+2026-02-11 13:22:51 - Inicia proceso de creación
+2026-02-11 13:22:51 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"2","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"01465","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"100002","sucursal":"160001","turno":"001","tipoNomina":"QUI","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878","codigoPostalFiscal":"63173","regimenFiscal":null}
+2026-02-11 13:22:51 - Error: SQLSTATE[42S02]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'giro.Supervisor_giro.RFCEMP'. (SQL: insert into [Supervisor_giro].[EMP_JEFE] ([CLAVE], [FECHA_INICIO], [FECHA_FIN], [ID_JEFE], [FECHA_CAPTURA]) values (P1000, 2020-01-01, 2099-12-31, 01465-001       , 2026-02-11 13:22:51.914))
+2026-02-11 13:25:49 - Inicia proceso de creación
+2026-02-11 13:25:49 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"2","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"01465","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"100002","sucursal":"160001","turno":"001","tipoNomina":"QUI","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878","codigoPostalFiscal":"63173","regimenFiscal":null}
+2026-02-11 13:25:49 - Error: SQLSTATE[42S02]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'giro.Supervisor_giro.RFCEMP'. (SQL: insert into [Supervisor_giro].[EMP_JEFE] ([CLAVE], [FECHA_INICIO], [FECHA_FIN], [ID_JEFE], [FECHA_CAPTURA]) values (P1000, 2020-01-01, 2099-12-31, 01465-001       , 2026-02-11 13:25:49.908))
+2026-02-11 13:31:26 - Inicia proceso de creación
+2026-02-11 13:31:26 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"2","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"01465","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"100002","sucursal":"160001","turno":"001","tipoNomina":"QUI","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878","codigoPostalFiscal":"63173","regimenFiscal":null}
+2026-02-11 13:31:26 - Error: SQLSTATE[42S02]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'giro.Supervisor_giro.RFCEMP'. (SQL: insert into [Supervisor_giro].[EMP_JEFE] ([CLAVE], [FECHA_INICIO], [FECHA_FIN], [ID_JEFE], [FECHA_CAPTURA]) values (P1000, 2020-01-01, 2099-12-31, 01465-001       , 2026-02-11 13:31:26.658))
+2026-02-11 13:36:01 - Inicia proceso de creación
+2026-02-11 13:36:01 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"2","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"01465","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"100002","sucursal":"160001","turno":"001","tipoNomina":"QUI","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878","codigoPostalFiscal":"63173","regimenFiscal":null}
+2026-02-11 13:36:02 - El proceso se ejecutó con éxito
+2026-02-11 13:42:56 - Inicia proceso de creación
+2026-02-11 13:42:56 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"2","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"01465","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"100002","sucursal":"160001","turno":"001","tipoNomina":"QUI","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878","codigoPostalFiscal":"63173","regimenFiscal":null}
+2026-02-11 13:42:56 - Warning: La clave P1000 ya existe.
+2026-02-11 13:44:02 - Inicia proceso de creación
+2026-02-11 13:44:02 - JSON: {"clave":"P1000","rfc":"PESJ900101TS1","apellidoPaterno":"PEREZ","apellidoMaterno":"SANCHEZ","nombre":"JUAN","curp":"PESJ900101HSLRLR01","afiliacion":"11111111111","numCelular":"6691101010","correoPersonal":"JUAN@GMAIL.COM","regimen":"02","jornada":"03","tipoContrato":"01","tipoEmpleado":"P","calendarioInhabil":"2","fechaIngreso":"2020-01-01","correoLaboral":"JUAN@OSSC.COM.MX","jefeInmediato":"01465","descuentoCuotaSindical":true,"semanaReducida":0,"jornadaReducida":0,"patronal":"001","departamento":"1000","puesto":"100002","sucursal":"160001","turno":"001","tipoNomina":"QUI","banco":"002","tipoPago":"TAR","derechoPTU":true,"clabe":"123456789654123658","cuentaCheques":null,"cuentaTarjeta":"1111456258745236","salarioDiario":500,"variableIMSS":100,"salarioDiarioIntegrado":600,"numeroCredito":null,"tipoDescuento":null,"valorDescuento":0,"inicioDescuento":"1991-01-01","suspenderInfonavit":false,"fechaSuspension":"1991-01-01","fechaNacimiento":"1991-12-04","lugarNacimiento":"PUEBLA","nacionalidad":"MEX","estadoNacimiento":"PUE","escolaridad":"05","sexo":"F","estadoCivil":"SOL","calle":"GOLBERTO OWEN","numero":"505","numeroInterior":null,"colonia":"JABALIES","codigoPostal":82165,"municipio":"MAZATL\u00c1N","estadoDomicilio":"SIN","telefono":"6691104077","telefono2":null,"contactoEmergencia":"SANDRA BOMITA","parentescoEmergencia":"PADRE","telefonoEmergencia":"6697415878","codigoPostalFiscal":"63173","regimenFiscal":null}
+2026-02-11 13:44:02 - Warning: La clave P1000 ya existe.
+2026-03-02 14:30:59 - Inicia proceso de creación
+2026-03-02 14:30:59 - JSON: {"attributes":{},"request":{},"query":{},"server":{},"files":{},"cookies":{},"headers":{}}
+2026-03-02 14:31:28 - Inicia proceso de creación
+2026-03-02 14:31:56 - Inicia proceso de creación
+2026-03-02 14:31:56 - JSON: {"attributes":{},"request":{},"query":{},"server":{},"files":{},"cookies":{},"headers":{}}
+2026-03-02 14:32:43 - Inicia proceso de creación
+2026-03-02 14:32:43 - JSON: POST /api/empleado HTTP/1.1
+Accept:          application/json
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  2111
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   99191679-2846-4c95-8b9d-58a5e4a9a2fe
+User-Agent:      PostmanRuntime/7.51.1
+
+
+    {
+        "clave": "P1000",
+        "rfc": "PESJ900101TS1",
+        "apellidoPaterno": "PEREZ",
+        "apellidoMaterno": "SANCHEZ",
+        "nombre": "JUAN",
+        "curp": "PESJ900101HSLRLR01",
+        "afiliacion": "11111111111",
+        "numCelular": "6691101010",
+        "correoPersonal": "JUAN@GMAIL.COM",
+        "regimen": "02",
+        "jornada": "03",
+        "tipoContrato": "01",
+        "tipoEmpleado": "P",
+        "calendarioInhabil": "01",
+        "fechaIngreso": "2020-01-01",
+        "correoLaboral": "JUAN@OSSC.COM.MX",
+        "jefeInmediato": "00224",
+        "descuentoCuotaSindical": true,
+        "semanaReducida": 0,
+        "jornadaReducida": 0,
+        "patronal": "001",
+        "departamento": "003",
+        "puesto": "002",
+        "sucursal": "021",
+        "turno": "01",
+        "tipoNomina": "QUI",
+        "banco": "002",
+        "tipoPago": "TAR",
+        "derechoPTU": true,
+        "clabe": "123456789654123658",
+        "cuentaCheques": "",
+        "cuentaTarjeta": "1111456258745236",
+        "salarioDiario": 500,
+        "variableIMSS": 100,
+        "salarioDiarioIntegrado": 600,
+        "numeroCredito": "",
+        "tipoDescuento": "",
+        "valorDescuento": 0,
+        "inicioDescuento": "1991-01-01", 
+        "suspenderInfonavit": false,
+        "fechaSuspension": "1991-01-01",
+        "fechaNacimiento": "1991-12-04",
+        "lugarNacimiento": "PUEBLA",
+        "nacionalidad": "MEX",
+        "estadoNacimiento": "PUE",
+        "escolaridad": "05",
+        "sexo": "F",
+        "estadoCivil": "SOL",
+        "calle": "GOLBERTO OWEN",
+        "numero": "505",
+        "numeroInterior": "",
+        "colonia": "JABALIES",
+        "codigoPostal": 82165,
+        "municipio": "MAZATLÁN",
+        "estadoDomicilio": "SIN",
+        "telefono": "6691104077",
+        "telefono2": "",
+        "contactoEmergencia": "SANDRA BOMITA",
+        "parentescoEmergencia": "PADRE",
+        "telefonoEmergencia": "6697415878",
+        "codigoPostalFiscal": "63173",
+        "regimenFiscal": ""
+    }
+
+2026-03-02 14:33:30 - Inicia proceso de creación
+2026-03-02 14:33:30 - JSON: POST /api/empleado HTTP/1.1
+Accept:          application/json
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  2111
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   8f6b02f3-705f-49dd-ad95-8aa0eb323434
+User-Agent:      PostmanRuntime/7.51.1
+
+
+    {
+        "clave": "P1000",
+        "rfc": "PESJ900101TS1",
+        "apellidoPaterno": "PEREZ",
+        "apellidoMaterno": "SANCHEZ",
+        "nombre": "JUAN",
+        "curp": "PESJ900101HSLRLR01",
+        "afiliacion": "11111111111",
+        "numCelular": "6691101010",
+        "correoPersonal": "JUAN@GMAIL.COM",
+        "regimen": "02",
+        "jornada": "03",
+        "tipoContrato": "01",
+        "tipoEmpleado": "P",
+        "calendarioInhabil": "01",
+        "fechaIngreso": "2020-01-01",
+        "correoLaboral": "JUAN@OSSC.COM.MX",
+        "jefeInmediato": "00224",
+        "descuentoCuotaSindical": true,
+        "semanaReducida": 0,
+        "jornadaReducida": 0,
+        "patronal": "001",
+        "departamento": "003",
+        "puesto": "002",
+        "sucursal": "021",
+        "turno": "01",
+        "tipoNomina": "QUI",
+        "banco": "002",
+        "tipoPago": "TAR",
+        "derechoPTU": true,
+        "clabe": "123456789654123658",
+        "cuentaCheques": "",
+        "cuentaTarjeta": "1111456258745236",
+        "salarioDiario": 500,
+        "variableIMSS": 100,
+        "salarioDiarioIntegrado": 600,
+        "numeroCredito": "",
+        "tipoDescuento": "",
+        "valorDescuento": 0,
+        "inicioDescuento": "1991-01-01", 
+        "suspenderInfonavit": false,
+        "fechaSuspension": "1991-01-01",
+        "fechaNacimiento": "1991-12-04",
+        "lugarNacimiento": "PUEBLA",
+        "nacionalidad": "MEX",
+        "estadoNacimiento": "PUE",
+        "escolaridad": "05",
+        "sexo": "F",
+        "estadoCivil": "SOL",
+        "calle": "GOLBERTO OWEN",
+        "numero": "505",
+        "numeroInterior": "",
+        "colonia": "JABALIES",
+        "codigoPostal": 82165,
+        "municipio": "MAZATLÁN",
+        "estadoDomicilio": "SIN",
+        "telefono": "6691104077",
+        "telefono2": "",
+        "contactoEmergencia": "SANDRA BOMITA",
+        "parentescoEmergencia": "PADRE",
+        "telefonoEmergencia": "6697415878",
+        "codigoPostalFiscal": "63173",
+        "regimenFiscal": ""
+    }
+
+2026-03-02 14:33:30 - Warning: La sucrisal 021 no existe.
+2026-03-02 14:33:58 - Inicia proceso de creación
+2026-03-02 14:33:58 - JSON: POST /api/empleado HTTP/1.1
+Accept:          application/json
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  2098
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   061d272c-61a6-400e-91d2-07ed1510e2fd
+User-Agent:      PostmanRuntime/7.51.1
+
+
+    {
+        "clave": "P1000",
+        "rfc": "",
+        "apellidoPaterno": "PEREZ",
+        "apellidoMaterno": "SANCHEZ",
+        "nombre": "JUAN",
+        "curp": "PESJ900101HSLRLR01",
+        "afiliacion": "11111111111",
+        "numCelular": "6691101010",
+        "correoPersonal": "JUAN@GMAIL.COM",
+        "regimen": "02",
+        "jornada": "03",
+        "tipoContrato": "01",
+        "tipoEmpleado": "P",
+        "calendarioInhabil": "01",
+        "fechaIngreso": "2020-01-01",
+        "correoLaboral": "JUAN@OSSC.COM.MX",
+        "jefeInmediato": "00224",
+        "descuentoCuotaSindical": true,
+        "semanaReducida": 0,
+        "jornadaReducida": 0,
+        "patronal": "001",
+        "departamento": "003",
+        "puesto": "002",
+        "sucursal": "021",
+        "turno": "01",
+        "tipoNomina": "QUI",
+        "banco": "002",
+        "tipoPago": "TAR",
+        "derechoPTU": true,
+        "clabe": "123456789654123658",
+        "cuentaCheques": "",
+        "cuentaTarjeta": "1111456258745236",
+        "salarioDiario": 500,
+        "variableIMSS": 100,
+        "salarioDiarioIntegrado": 600,
+        "numeroCredito": "",
+        "tipoDescuento": "",
+        "valorDescuento": 0,
+        "inicioDescuento": "1991-01-01", 
+        "suspenderInfonavit": false,
+        "fechaSuspension": "1991-01-01",
+        "fechaNacimiento": "1991-12-04",
+        "lugarNacimiento": "PUEBLA",
+        "nacionalidad": "MEX",
+        "estadoNacimiento": "PUE",
+        "escolaridad": "05",
+        "sexo": "F",
+        "estadoCivil": "SOL",
+        "calle": "GOLBERTO OWEN",
+        "numero": "505",
+        "numeroInterior": "",
+        "colonia": "JABALIES",
+        "codigoPostal": 82165,
+        "municipio": "MAZATLÁN",
+        "estadoDomicilio": "SIN",
+        "telefono": "6691104077",
+        "telefono2": "",
+        "contactoEmergencia": "SANDRA BOMITA",
+        "parentescoEmergencia": "PADRE",
+        "telefonoEmergencia": "6697415878",
+        "codigoPostalFiscal": "63173",
+        "regimenFiscal": ""
+    }
+
+2026-03-02 14:33:58 - Warning: La sucrisal 021 no existe.
+2026-03-02 14:35:13 - Inicia proceso de creación
+2026-03-02 14:35:13 - JSON: POST /api/empleado HTTP/1.1
+Accept:          application/json
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  2111
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   98434cf7-041d-4474-8a00-0882ec40de9f
+User-Agent:      PostmanRuntime/7.51.1
+
+
+    {
+        "clave": "P1000",
+        "rfc": "PESJ900101TS1",
+        "apellidoPaterno": "PEREZ",
+        "apellidoMaterno": "SANCHEZ",
+        "nombre": "JUAN",
+        "curp": "PESJ900101HSLRLR01",
+        "afiliacion": "11111111111",
+        "numCelular": "6691101010",
+        "correoPersonal": "JUAN@GMAIL.COM",
+        "regimen": "02",
+        "jornada": "03",
+        "tipoContrato": "01",
+        "tipoEmpleado": "P",
+        "calendarioInhabil": "01",
+        "fechaIngreso": "2020-01-01",
+        "correoLaboral": "JUAN@OSSC.COM.MX",
+        "jefeInmediato": "00224",
+        "descuentoCuotaSindical": true,
+        "semanaReducida": 0,
+        "jornadaReducida": 0,
+        "patronal": "001",
+        "departamento": "003",
+        "puesto": "002",
+        "sucursal": "021",
+        "turno": "01",
+        "tipoNomina": "QUI",
+        "banco": "002",
+        "tipoPago": "TAR",
+        "derechoPTU": true,
+        "clabe": "123456789654123658",
+        "cuentaCheques": "",
+        "cuentaTarjeta": "1111456258745236",
+        "salarioDiario": 500,
+        "variableIMSS": 100,
+        "salarioDiarioIntegrado": 600,
+        "numeroCredito": "",
+        "tipoDescuento": "",
+        "valorDescuento": 0,
+        "inicioDescuento": "1991-01-01", 
+        "suspenderInfonavit": false,
+        "fechaSuspension": "1991-01-01",
+        "fechaNacimiento": "1991-12-04",
+        "lugarNacimiento": "PUEBLA",
+        "nacionalidad": "MEX",
+        "estadoNacimiento": "PUE",
+        "escolaridad": "05",
+        "sexo": "F",
+        "estadoCivil": "SOL",
+        "calle": "GOLBERTO OWEN",
+        "numero": "505",
+        "numeroInterior": "",
+        "colonia": "JABALIES",
+        "codigoPostal": 82165,
+        "municipio": "MAZATLÁN",
+        "estadoDomicilio": "SIN",
+        "telefono": "6691104077",
+        "telefono2": "",
+        "contactoEmergencia": "SANDRA BOMITA",
+        "parentescoEmergencia": "PADRE",
+        "telefonoEmergencia": "6697415878",
+        "codigoPostalFiscal": "63173",
+        "regimenFiscal": ""
+    }
+
+2026-03-02 14:35:13 - Warning: La sucursal 021 no existe.
